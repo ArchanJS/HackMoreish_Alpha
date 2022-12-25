@@ -1,4 +1,4 @@
-## Website link : https://alpha-money-heist.herokuapp.com
+## Website link : https://alpha-money-heist.netlify.app/
 
 ## Developers :
 • [Archan Banerjee](https://www.github.com/ArchanJS)
